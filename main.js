@@ -9,6 +9,11 @@ const words = [
     'Gulzoda',
   'Nozima',
       'Gulsanam',
+  'Kaxa',
+  'Asa',
+  'as_freestyle',
+  'Muxa',
+  
   
 ];
 
